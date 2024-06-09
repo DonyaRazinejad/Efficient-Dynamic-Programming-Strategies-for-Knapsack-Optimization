@@ -1,2 +1,4 @@
 # Efficient-Dynamic-Programming-Strategies-for-Knapsack-Optimization
 Comparing efficient dynamic programming strategies for solving the knapsack optimization problem, utilizing tabulation, recursion, and memoization techniques, with insights derived from CPU time measurements and optimal value comparisons.
+
+My code implements and compares three dynamic programming strategies for solving the knapsack optimization problem efficiently. The knapsack problem entails selecting items to maximize value within a given weight constraint. We employ tabulation-based dynamic programming, recursive dynamic programming, and memoization-based dynamic programming to find the optimal solution. The code generates random data for costs, weights, and limits, and then measures the CPU time taken by each method. By comparing the optimal values obtained by these methods, we gain insights into their efficiency and effectiveness in tackling the knapsack problem. chose 1 line description
